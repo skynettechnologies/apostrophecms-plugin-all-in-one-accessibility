@@ -60,8 +60,6 @@ Add it as a plugin in `app.js`
 
 ```js
 apostrophe({
-  root: import.meta,
-  shortName: 'allinoneaccessibility',
   modules: {
     'apostrophecms-all-in-one-accessibility': {},
   }
@@ -94,7 +92,7 @@ To configure the widget, access the Admin Panel and head to the **All in One Acc
 ## Documentation
 
 - **[Apostrophe CMS All in One Accessibility](https://www.skynettechnologies.com/apostrophe-cms-website-accessibility)**
-- **[How to install All in One Accessibility Extension on Apostrophe CMS blog](hhttps://www.skynettechnologies.com/blog/apostrophe-cms-web-accessibility-widget-installation)**
+- **[How to install All in One Accessibility Extension on Apostrophe CMS blog](https://www.skynettechnologies.com/blog/apostrophe-cms-web-accessibility-widget-installation)**
 - **[All in One Accessibility - Features Guide](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)**
 
 ## Submit a Support Request
