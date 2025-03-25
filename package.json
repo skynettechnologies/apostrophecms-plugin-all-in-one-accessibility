@@ -1,0 +1,38 @@
+{
+  "name": "apostrophecms-plugin-all-in-one-accessibility",
+  "version": "1.0.0",
+  "description": "Website accessibility widget for improving WCAG 2.0, 2.1, 2.2 and ADA compliance!",
+  "keywords": [
+    "apostrophecms",
+    "apostrophecms-plugin",
+    "All in One Accessibility",
+    "ADA",
+    "All in One Accessibility apostrophecms",
+    "All in One Accessibility javascript",
+    "apostrophecms Plugin All in One Accessibility",
+    "apostrophecms-plugin-all-in-one-accessibility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skynettechnologies/apostrophecms-plugin-all-in-one-accessibility"
+  },
+  "bugs": {
+    "url": "https://github.com/skynettechnologies/apostrophecms-plugin-all-in-one-accessibility/issues"
+  },
+  "homepage": "https://github.com/skynettechnologies/apostrophecms-plugin-all-in-one-accessibility#readme",
+  "license": "MIT",
+  "author": "Skynet Technologies USA LLC <developer3@skynettechnologies.com>",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
