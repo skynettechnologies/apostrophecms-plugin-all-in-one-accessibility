@@ -502,7 +502,6 @@ export default {
             console.log('widget_position_top', widget_position_top);
             console.log('widget_position_bottom', widget_position_bottom);
 
-
             fetch('https://ada.skynettechnologies.us/api/widget-setting-update-platform', {
                 method: 'POST',
                 body: formdata,
